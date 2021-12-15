@@ -5,7 +5,7 @@
         <groupId>gov.nsa.datawave.microservice</groupId>
         <artifactId>datawave-microservice-service-parent</artifactId>
         <version>1.7.1</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>spring-boot-starter-datawave</artifactId>
     <version>1.6.4-SNAPSHOT</version>
@@ -38,7 +38,7 @@
         <version.microservice.metrics.reporter>1.2</version.microservice.metrics.reporter>
         <version.protostuff>1.5.5</version.protostuff>
         <version.springfox>2.9.2</version.springfox>
-        <version.swagger>1.5.21</version.swagger>
+        <version.swagger>1.6.3</version.swagger>
     </properties>
     <dependencyManagement>
         <dependencies>
